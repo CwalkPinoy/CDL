@@ -1,0 +1,2 @@
+# dickware
+ Commercial Dickware License
